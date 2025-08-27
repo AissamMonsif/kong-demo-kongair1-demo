@@ -1,3 +1,5 @@
 consumers:
 - username: sdi ahmed
   service: flight-service
+- username: test-flight
+  service: flight-service
