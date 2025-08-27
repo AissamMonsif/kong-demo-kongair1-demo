@@ -1,0 +1,5 @@
+consumers:
+- username: testdoe
+  service: booking-service
+- username: testalice
+  service: booking-service
